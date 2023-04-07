@@ -9,6 +9,15 @@
   padding: 5px;
 }
 
+@media (max-aspect-ratio: 4/3) {
+  .sidebar{
+    display: none;
+  }
+  .body{
+    padding-left: 20px;
+  }
+}
+
 .logo-sidebar{
   max-width: 100%;
 }

@@ -3,11 +3,3 @@ background: rgb(34, 39, 41) oder white
 button: rgb(7, 138, 143)
 */
 
-body{
-  color: white;
-  background-color: rgb(34, 39, 41);
-  padding: 10px;
-  padding-left: 170px;
-  padding-top: 0;
-  font-family: Roboto, Arial;
-}

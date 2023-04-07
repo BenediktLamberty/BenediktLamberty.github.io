@@ -17,3 +17,9 @@
   padding-top: 0;
   font-family: Roboto, Arial;
 }
+
+@media (max-aspect-ratio: 4/3) {
+  .body{
+    padding-left: 10px;
+  }
+}
