@@ -1,0 +1,16 @@
+.headbar{
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  background-color: rgb(43, 49, 51);
+  height: 75px;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.24);
+  padding: 5px;
+}
+
+@media (min-aspect-ratio: 4/3) {
+  .headbar{
+    display: none;
+  }
+}
