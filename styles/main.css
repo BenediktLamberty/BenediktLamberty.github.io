@@ -1,0 +1,11 @@
+.pers-info{
+  font-size: 14pt;
+}
+.warning{
+  padding: 10px 20px;
+  border: 2px solid rgb(150, 14, 14);
+  border-radius: 10px;
+  display: inline-block;
+  background-color: rgb(43, 49, 51);
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.24);
+}
