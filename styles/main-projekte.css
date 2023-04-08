@@ -14,7 +14,7 @@
     grid-template-columns: 1fr 1fr;
   }
 }
-@media (min-aspect-ratio: 2/1) {
+@media (min-aspect-ratio: 7/4) {
   .projects-grid{
     grid-template-columns: 1fr 1fr 1fr;
   }
