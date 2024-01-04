@@ -94,6 +94,14 @@
   font-size: 9pt;
   color: rgb(46, 125, 50);
 }
+.tag-ch{
+  font-size: 9pt;
+  color: rgb(66, 66, 66);
+}
+.tag-bio{
+  font-size: 9pt;
+  color: rgb(0, 197, 10);
+}
 
 .proj-abstract{
   border-top: 1px solid rgb(83, 88, 90);
@@ -116,4 +124,8 @@
   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.253);
   margin-bottom: 5px;
   font-family: Roboto, Arial;
+  cursor: pointer;
+}
+.proj-button:hover{
+  box-shadow: 8px 8px 10px rgba(0, 0, 0, 0.353);
 }
