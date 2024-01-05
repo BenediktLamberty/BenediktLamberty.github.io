@@ -4,6 +4,19 @@
     border-radius: 5px;
     object-fit: cover;
   }
+
+.link-pic{
+  position: relative;
+  text-align: center;
+  color: black;
+  z-index: 0;
+}
+
+.link-pic div{
+  position:absolute;
+  top: 118px;
+  right: 10px;
+}
   
   .pers-info{
       font-size: 14pt;

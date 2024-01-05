@@ -7,6 +7,7 @@
   height: 75px;
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.24);
   padding: 5px;
+  z-index: 1;
 }
 
 @media (min-aspect-ratio: 4/3) {
